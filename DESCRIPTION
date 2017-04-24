@@ -1,6 +1,6 @@
 Package: hapmap500knsp
 Title: Sample data - Hapmap 500K NSP Affymetrix
-Version: 1.17.0
+Version: 1.18.0
 Author: Hapmap Consortium
 Suggests: oligo
 Maintainer: Benilton Carvalho <Benilton.Carvalho@cancer.org.uk>
